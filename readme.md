@@ -34,7 +34,7 @@ Whiteboarding is often a very important part of the technical interview process 
 ***
 
 <a name="introduction"></a>
-## Whiteboarding Techniques (10 mins)
+## Whiteboarding Techniques
 
 While one of the main goals in whiteboarding is to solve the problem you are given, the interviewers are also finding out much more about who you are and how you work.
 
@@ -100,7 +100,7 @@ You can see that each step we wrote out corresponds to a certain section of the 
 ***
 
 <a name="ind-practice"></a>
-## Independent Practice: Whiteboarding Problems (55 mins)
+## Independent Practice: Whiteboarding Problems
 
 Now it's your turn! Get into groups of 3-4 people, and each person will take, at most, 10 minutes to pick a problem from the list below to solve. The remaining people will act as the interviewers. Remember to follow the techniques we discussed.
 
@@ -117,7 +117,7 @@ Now it's your turn! Get into groups of 3-4 people, and each person will take, at
 ***
 
 <a name="conclusion"></a>
-## Conclusion (5 mins)
+## Conclusion
 
 Whiteboarding can be deceptively difficult and only becomes easier with practice - we're doing this in week 1, so you can immediately start practicing and get better each week.  Knowing these basic techniques will help you to relax and concentrate on the problem you are presented with during your interviews.
 
